@@ -28,4 +28,4 @@ THEN the saved events persist
 
 Deployed Application: https://kmorrison12.github.io/work-day-scheduler/
 
-![Work Day Scheduler Screenshot]
+![Work Day Scheduler Screenshot](./Assets/scheduler-screenshot.png)
