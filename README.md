@@ -25,3 +25,7 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+
+Deployed Application: https://kmorrison12.github.io/work-day-scheduler/
+
+![Work Day Scheduler Screenshot]
